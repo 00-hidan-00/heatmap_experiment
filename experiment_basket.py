@@ -8,8 +8,8 @@ import pandas as pd
 import seaborn as sns
 from binance.client import Client
 
-BINANCE__API = 'NeIDyDdARUdGaxzTojEFRczjkI44Mrjpt3KE8zbkVhr5x0qiGaM1ESUKMdNix28O'
-BINANCE__SECRET_KEY = 'mRhF9v4XUlqK8X2drn7NTkpzghtwZYgTiswKTc5Xlft0u8HhP9NTZM4E4zHUBvK5'
+BINANCE__API = ''
+BINANCE__SECRET_KEY = ''
 client = Client(BINANCE__API, BINANCE__SECRET_KEY)
 
 
